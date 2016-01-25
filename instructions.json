@@ -1,0 +1,19 @@
+{
+	"main_script": "emperor.js",
+	"icon": "emperor.png",
+	"width": 1920,
+	"height": 1080,
+	"resize": "free",
+	"dependencies": [
+		"emperor/emperor/support_files/vendor/js/require-2.1.22.min.js"
+	],
+	"load": {
+		"value": 4
+	},
+	"title": "emperor",
+	"version": "1.0.0",
+	"description": "SAGE2 application emperor",
+	"keywords": [ "sage2", "emperor" ],
+	"author": "McHelper Penguin <emperor@emperor.microbio.me>",
+	"license": "BSD-2"
+}

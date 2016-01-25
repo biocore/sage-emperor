@@ -1,0 +1,4 @@
+[submodule "emperor"]
+	path = emperor
+	url = git://github.com/biocore/emperor.git
+	branch = new-api
